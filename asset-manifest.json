@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taketoys/quiz-with-foto.git/static/css/main.7f557cb4.css",
+    "main.js": "/taketoys/quiz-with-foto.git/static/js/main.fc85dbb0.js",
+    "index.html": "/taketoys/quiz-with-foto.git/index.html",
+    "main.7f557cb4.css.map": "/taketoys/quiz-with-foto.git/static/css/main.7f557cb4.css.map",
+    "main.fc85dbb0.js.map": "/taketoys/quiz-with-foto.git/static/js/main.fc85dbb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f557cb4.css",
+    "static/js/main.fc85dbb0.js"
+  ]
+}
